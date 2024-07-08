@@ -6,7 +6,7 @@
 print('Number\tSquare')
 print('--------------')
 
-# Print the numbers 1 through 10
+# Print the numbers 1 through 10 (1 to (11-1))
 # and their squares.
 for number in range(1, 11):
     square = number**2
