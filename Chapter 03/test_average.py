@@ -5,7 +5,7 @@
 # The high score variable holds the value that is
 # considered a high score.
 high_score = 95
- 
+
 # Get the three test scores.
 test1 = int(input('Enter the score for test 1: '))
 test2 = int(input('Enter the score for test 2: '))

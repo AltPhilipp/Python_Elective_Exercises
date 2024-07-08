@@ -1,6 +1,7 @@
 # This program determines whether a bank customer
 # qualifies for a loan.
 
+#Constants:
 MIN_SALARY = 30000.0  # The minimum annual salary
 MIN_YEARS = 2         # The minimum years on the job
 
