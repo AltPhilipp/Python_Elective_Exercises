@@ -5,7 +5,7 @@ def main():
     num1 = int(input('Enter a number: '))
     num2 = int(input('Enter another number: '))
 
-    # Call the divide function.
+    # Call the divide function. If num2 is null, result will also be null/none
     quotient = divide(num1, num2)
 
     # Display the result.

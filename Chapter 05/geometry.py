@@ -1,6 +1,6 @@
 # This program allows the user to choose various
 # geometry calculations from a menu. This program
-# imports the circle and rectangle modules.
+# imports the circle and rectangle modules/functions.
 import circle
 import rectangle
 

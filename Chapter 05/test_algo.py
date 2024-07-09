@@ -6,6 +6,7 @@ import algo
 def test_min():
     """Verify the output of the 'min' function"""
     values = [2, 5, 6, 1, 8]
+    #Assert are expected values
     assert algo.minimum(values) == 1
 
 

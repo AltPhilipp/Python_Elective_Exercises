@@ -12,4 +12,6 @@ def area(width, length):
 def perimeter(width, length):
     return 2 * (width + length)
 
+print(area(12, 2))
+
 

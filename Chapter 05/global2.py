@@ -1,5 +1,5 @@
 # Create a global variable.
-number = 0
+number: int = 0
 
 
 def main():
