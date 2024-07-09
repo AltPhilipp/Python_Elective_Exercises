@@ -11,7 +11,7 @@ def main():
     num2 = int(input('Enter another number: '))
     num3 = int(input('Enter another number: '))
 
-    # Write the numbers to the file.
+    # Write the numbers to the file. (With casting to String)
     outfile.write(str(num1) + '\n')
     outfile.write(str(num2) + '\n')
     outfile.write(str(num3) + '\n')

@@ -2,7 +2,7 @@
 # philosophers.txt file one line at a time.
 def main():
     # Open a file named philosophers.txt.
-    infile = open('philosophers.txt', 'r')
+    infile = open('philosophers.txt', 'r') # 'r' says we read the text file
 
     # Read three lines from the file
     line1 = infile.readline()

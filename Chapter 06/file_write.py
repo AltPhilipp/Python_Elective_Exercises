@@ -2,7 +2,7 @@
 # to a file.
 def main():
     # Open a file named philosophers.txt.
-    outfile = open('philosophers.txt', 'w')
+    outfile = open('philosophers.txt', 'w') # here we write, as described with 'w'
 
     # Write the names of three philosphers
     # to the file.
